@@ -1,1 +1,4 @@
 place:Coimbatore
+place Hyderabad
+place:lucknow
+place:delhi
