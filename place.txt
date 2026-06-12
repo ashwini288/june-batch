@@ -1,5 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 place:Coimbatore
 =======
 place:Chennai is the capital of tamilnadu.
 >>>>>>> techpanda
+=======
+place:Coimbatore
+place Hyderabad
+place:lucknow
+place:delhi
+place:Chennai is the capital of tamilnadu.
+place:Coimbatore
+>>>>>>> 711fe41ea07dc5771ad4b459171c5ccbd4b0439c
