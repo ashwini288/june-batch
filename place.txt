@@ -1,2 +1,6 @@
+place:Coimbatore
+place Hyderabad
+place:lucknow
+place:delhi
 place:Chennai is the capital of tamilnadu.
 place:Coimbatore
